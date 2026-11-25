@@ -1,0 +1,114 @@
+Data Entities for Logistics AI Assistant
+
+Custom Data Types
+
+Hub Type  - AIRPORT, PORT, DHL office, SORTING CENTRE
+
+status (For Delivery entity) - Waiting, Transporting, Arrived, Failed, Postponed
+
+------------------------------------------------------------------------------------------------
+Raw Entities (O NF)
+
+Parcel - parcel serial id, sender (name, email, phone, address, postcode, country code), receiver (name, email, phone, address, postcode, country code), weight, fragile
+
+Hub - hub id, name, email, phone, hub type, address, postcode, unlocode
+
+Staff - staff id, name, email, phone, hub id, role
+
+Transport - Transportation ID, transportation type, registration date,
+
+------------------------------------------------------------------------------------------------
+(0 NF -> 1 NF) (Removing duplicated columns to ensure atomicity)
+Parcel entity has 2 major duplicated columns which can be abstracted into Client Entity.
+
+Client -  client id, name, email, phone, home address, postcode, country code
+
+------------------------------------------------------------------------------------------------
+
+(1 NF)
+
+Parcel - parcel serial id, sender client id, receiver client id, weight, fragile
+
+Client -  client id, name, email, phone, address, postcode, country code
+
+Hub - hub id, name, email, phone, hub type, address, postcode, unlocode
+
+Staff - staff id, name, email, phone, hub id, role
+
+Transport - transportation id, transportation type, registration date
+
+------------------------------------------------------------------------------------------------
+(1 NF -> 2 NF) (Removing Partial Dependencies) (No non-key attribute should depend on only a part of a composite candidate key.)
+
+There are no new entities created at this stage as all entities have single-column keys.
+
+------------------------------------------------------------------------------------------------
+
+(2 NF)
+
+Parcel - parcel serial id, sender client id, receiver client id, weight, fragile
+
+Client -  client id, name, email, phone, address, postcode, country code
+
+Hub - hub id, name, email, phone, hub type, address, postcode, unlocode
+
+Staff - staff id, name, email, phone, hub id, role
+
+Transport - transportation id, transportation type, registration date
+
+------------------------------------------------------------------------------------------------
+
+(2 NF -> 3 NF) (No non-key attribute should depend on another non-key attribute)
+
+There are no new entities created at this stage as all entities has no determining non-key columns.
+
+------------------------------------------------------------------------------------------------
+
+(3 NF)
+
+Parcel - parcel serial id, sender client id, receiver client id, weight, fragile
+
+Client (For sender and receiver)- client id, name, email, phone, address, postcode, country code
+
+Hub - hub id, name, email, phone, hub type, address, postcode, unlocode
+
+Transport - transportation id, transportation type, registration date
+
+Staff - staff id, name, email, phone, hub id, role 
+
+------------------------------------------------------------------------------------------------
+
+(For handling many to many relationships, M to N) 
+
+Delivery - delivery id, driver staff id, transportation id, parcel serial id, status, origin, destination, departure time, expected arrival time, actual arrival time (between parcel, transport and staff)
+
+------------------------------------------------------------------------------------------------
+(New Entities for Tracking)
+
+Coordinates - transportation id, latitude, longitude, timestamp  
+
+Speed - transportation id, speed, timestamp
+
+Tracking event - event id, parcel serial id, current status, current delivery id, current timestamp 
+
+-----------------------------------------------------------------------------------------------
+
+Finalised Form
+
+Parcel - parcel serial id, sender client id, receiver client id, weight, fragile 
+
+Client (For sender and receiver)- client id, name, email, phone, address, postcode, country code
+
+Tracking event - event id, parcel serial id, current status, current delivery id, current timestamp
+
+Hub - hub id, name, email, phone, hub type, address, postcode, unlocode
+
+Transport - Transportation ID, transportation type, registration date
+
+Delivery - delivery id, driver staff id, transportation id, parcel serial id, status, origin, destination, departure time, expected arrival time, actual arrival time. 
+
+Coordinates - transportation id, latitude, longitude, timestamp
+
+Speed - transportation id, speed, timestamp
+
+Staff - staff id, name, email, phone, hub id, role
