@@ -8,6 +8,8 @@ Hub Type  - AIRPORT, PORT, OFFICE, SORTING CENTRE
 
 status (For Delivery entity) - Waiting, Transporting, Arrived, Failed, Postponed
 
+Address Type - 3rd Party Office, Hub, Home
+
 ------------------------------------------------------------------------------------------------
 Raw Entities (O NF)
 
@@ -107,7 +109,7 @@ Coordinates - transportation id (PK and FK), timestamp (PK), latitude, longitude
 
 Speed - transportation id (PK and FK), timestamp (PK), speed
 
-Tracking event - event id (PK), parcel serial id (FK), current status, current delivery id (FK), current timestamp 
+Tracking event - event id (PK), parcel serial id (FK), delivery id (FK), timestamp 
 
 -----------------------------------------------------------------------------------------------
 
@@ -117,16 +119,56 @@ Parcel - parcel serial id (PK), sender client id (FK), receiver client id (FK), 
 
 Client - client id (PK), name, email, phone, address, postcode, country code
 
-Tracking event - event id (PK), parcel serial id (FK), current status, current delivery id (FK), current timestamp 
+Tracking event - event id (PK), parcel serial id (FK), delivery id (FK), timestamp 
 
 Hub - hub id (PK), name, email, phone, hub type, address, postcode, unlocode
 
 Transport - transportation id (PK), transportation type, registration date
 
-Delivery - delivery id (PK), driver staff id, transportation id (FK), parcel serial id (FK), status, origin, destination, departure time, expected arrival time, actual arrival time 
+Delivery - delivery id (PK), driver staff id (FK), transportation id (FK), parcel serial id (FK), status, origin, destination, departure time, expected arrival time, actual arrival time 
 
 Coordinates - transportation id (PK and FK), timestamp (PK), latitude, longitude,
 
 Speed - transportation id (PK and FK), timestamp (PK), speed
 
 Staff - staff id (PK), name, email, phone, hub id (FK), role 
+
+
+----------------------------------------------------------------------------------------------
+
+# Improvement 1 
+As origin, destination columns are not well fitted by string addresses as it might have a lot of space. A new entity called Address is created 
+
+Address - address id (PK), type, number, building, street, postcode (FK), country code (FK) 
+
+Postcode - postcode (PK), country code (PK and FK), city, district, state 
+
+Country code - country code (PK), country name, region
+
+-----------------------------------------------------------------------------------------------
+
+# Improvement 1 Result 
+
+Parcel - parcel serial id (PK), sender client id (FK), receiver client id (FK), weight, fragile
+
+Client - client id (PK), name, email, phone, address id (FK)
+
+Tracking event - event id (PK), parcel serial id (FK), delivery id (FK), timestamp 
+
+Hub - hub id (PK), name, email, phone, hub type, address id (FK), unlocode
+
+Transport - transportation id (PK), transportation type, registration date
+
+Delivery - delivery id (PK), driver staff id (FK), transportation id (FK), parcel serial id (FK), status, origin address id (FK), destination address id (FK), departure time, expected arrival time, actual arrival time 
+
+Coordinates - transportation id (PK and FK), timestamp (PK), latitude, longitude,
+
+Speed - transportation id (PK and FK), timestamp (PK), speed
+
+Staff - staff id (PK), name, email, phone, hub id (FK), role 
+
+Address - address id (PK), type, number, building, street, postcode (FK), country code (FK) 
+
+Postcode - postcode (PK), country code (PK and FK), city, district, state 
+
+Country code - country code (PK), country name, region
