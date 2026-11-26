@@ -171,22 +171,22 @@ A history table: one row per parcel event.
 ```mermaid
 erDiagram
 
-    client ||--o{ parcel : sends
-    client ||--o{ parcel : receives
-    parcel ||--o{ delivery : has
-    transport ||--o{ delivery : proceeds
+    client ||--|{ parcel : sends
+    client ||--|{ parcel : receives
+    parcel ||--|{ delivery : has
+    transport ||--|{ delivery : proceeds
     staff ||--o{ delivery : handles
-    hub ||--o{ staff : assigns
-    parcel ||--o{ tracking_event : tracked_by
+    hub ||--|{ staff : assigns
+    parcel ||--|{ tracking_event : tracked_by
     delivery ||--o{ tracking_event : traced_by
     hub ||--o{ tracking_event : notified_by
-    transport ||--o{ coordinates : gets
-    transport ||--o{ speed : obtains
-    address ||--o{ client : locates 
-    address ||--o{ hub : places
-    address ||--o{ delivery : provides 
-    postcode ||--o{ address : gives
-    country ||--o{ postcode : determines
+    transport ||--|{ coordinates : gets
+    transport ||--|{ speed : obtains
+    address ||--|{ client : locates 
+    address ||--|{ hub : places
+    address ||--|{ delivery : provides 
+    postcode ||--|{ address : gives
+    country ||--|{ postcode : determines
 
     country
     postcode
@@ -207,22 +207,22 @@ erDiagram
 ```mermaid
 erDiagram
 
-    client ||--o{ parcel : sends
-    client ||--o{ parcel : receives
-    parcel ||--o{ delivery : has
-    transport ||--o{ delivery : proceeds
+    client ||--|{ parcel : sends
+    client ||--|{ parcel : receives
+    parcel ||--|{ delivery : has
+    transport ||--|{ delivery : proceeds
     staff ||--o{ delivery : handles
-    hub ||--o{ staff : assigns
-    parcel ||--o{ tracking_event : tracked_by
+    hub ||--|{ staff : assigns
+    parcel ||--|{ tracking_event : tracked_by
     delivery ||--o{ tracking_event : traced_by
     hub ||--o{ tracking_event : notified_by
-    transport ||--o{ coordinates : gets
-    transport ||--o{ speed : obtains
-    address ||--o{ client : locates 
-    address ||--o{ hub : places
-    address ||--o{ delivery : provides 
-    postcode ||--o{ address : gives
-    country ||--o{ postcode : determines
+    transport ||--|{ coordinates : gets
+    transport ||--|{ speed : obtains
+    address ||--|{ client : locates 
+    address ||--|{ hub : places
+    address ||--|{ delivery : provides 
+    postcode ||--|{ address : gives
+    country ||--|{ postcode : determines
 
     country {
         String country_code PK 
