@@ -141,7 +141,7 @@ As origin, destination columns are not well fitted by string addresses as it mig
 
 Address - address id (PK), type, number, building, street, postcode (FK), country code (FK) 
 
-Postcode - postcode (PK), country code (PK and FK), city, district, state 
+Postcode - postcode (PK), country code (PK and FK), area, city, district, state
 
 Country code - country code (PK), country name, region
 
@@ -169,6 +169,6 @@ Staff - staff id (PK), name, email, phone, hub id (FK), role
 
 Address - address id (PK), type, number, building, street, postcode (FK), country code (FK) 
 
-Postcode - postcode (PK), country code (PK and FK), city, district, state 
+Postcode - postcode (PK), country code (PK and FK), area, city, district, state 
 
-Country code - country code (PK), country name, region
+Country- country code (PK), country name, region  
