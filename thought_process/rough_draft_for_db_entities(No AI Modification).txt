@@ -4,7 +4,7 @@ NOTE: PK means Primary Key and FK means Foreign Key
 
 Custom Data Types
 
-Hub Type  - AIRPORT, PORT, DHL office, SORTING CENTRE
+Hub Type  - AIRPORT, PORT, OFFICE, SORTING CENTRE
 
 status (For Delivery entity) - Waiting, Transporting, Arrived, Failed, Postponed
 
@@ -43,17 +43,17 @@ Transport - transportation id, transportation type, registration date
 (1 NF -> 2 NF) (Removing Partial Dependencies) (No non-key attribute should depend on only a part of a composite candidate key.)
 
 Candidate Keys:
-Parcel: parcel serial id, (parcel serial id, sender client id) 
+Parcel: parcel serial id
 Primary Key: parcel serial id
 
-Client: client id, (name, email, phone) 
-Primary Key: parcel serial id
+Client: client id
+Primary Key: client id
 
-Hub: hub id, (name, email, phone,) 
-Primary Key: parcel serial id
+Hub: hub id
+Primary Key: hub id
 
-Staff: staff id, (name, email, phone,) 
-Primary Key: parcel serial id
+Staff: staff id
+Primary Key: staff id
 
 Transport: transportation id 
 Primary Key: transportation id
@@ -70,9 +70,9 @@ Client -  client id (PK), name, email, phone, address, postcode, country code
 
 Hub - hub id (PK), name, email, phone, hub type, address, postcode, unlocode
 
-Staff - staff id (PK), name, email, phone, hub id, role
-
 Transport - transportation id (PK), transportation type, registration date
+
+Staff - staff id (PK), name, email, phone, hub id (FK), role
 
 ------------------------------------------------------------------------------------------------
 
@@ -92,20 +92,20 @@ Hub - hub id (PK), name, email, phone, hub type, address, postcode, unlocode
 
 Transport - transportation id (PK), transportation type, registration date
 
-Staff - staff id (PK), name, email, phone, hub id, role 
+Staff - staff id (PK), name, email, phone, hub id (FK), role 
 
 ------------------------------------------------------------------------------------------------
 
 (For handling many to many relationships, M to N) 
 
-Delivery - delivery id (PK), driver staff id (FK), transportation id (FK), parcel serial id (FK), status, origin, destination, departure time, expected arrival time, actual arrival time (between parcel, transport and staff)
+Delivery - delivery id (PK), driver staff id, transportation id (FK), parcel serial id (FK), status, origin , destination, departure time, expected arrival time, actual arrival time (between parcel, transport and staff)
 
 ------------------------------------------------------------------------------------------------
 (New Entities for Tracking)
 
-Coordinates - transportation id (PK and FK), timestamp (FK), latitude, longitude,
+Coordinates - transportation id (PK and FK), timestamp (PK), latitude, longitude,
 
-Speed - transportation id (PK and FK), timestamp (FK), speed
+Speed - transportation id (PK and FK), timestamp (PK), speed
 
 Tracking event - event id (PK), parcel serial id (FK), current status, current delivery id (FK), current timestamp 
 
@@ -123,10 +123,10 @@ Hub - hub id (PK), name, email, phone, hub type, address, postcode, unlocode
 
 Transport - transportation id (PK), transportation type, registration date
 
-Delivery - delivery id (PK), driver staff id (FK), transportation id (FK), parcel serial id (FK), status, origin, destination, departure time, expected arrival time, actual arrival time 
+Delivery - delivery id (PK), driver staff id, transportation id (FK), parcel serial id (FK), status, origin, destination, departure time, expected arrival time, actual arrival time 
 
-Coordinates - transportation id (PK and FK), timestamp (FK), latitude, longitude,
+Coordinates - transportation id (PK and FK), timestamp (PK), latitude, longitude,
 
-Speed - transportation id (PK and FK), timestamp (FK), speed
+Speed - transportation id (PK and FK), timestamp (PK), speed
 
-Staff - staff id (PK), name, email, phone, hub id, role 
+Staff - staff id (PK), name, email, phone, hub id (FK), role 
