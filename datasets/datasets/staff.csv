@@ -1,0 +1,95 @@
+staff_id,name,email,phone,hub_id,role
+f168c605-ce1a-4669-9bbc-6cbc409ca8f2,Aisyah Nair,aisyahnair412@staffmail.example,605554665743,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,HUB_MANAGER
+9fa4a627-d306-48be-8548-867bad5cba24,Arjun Abdullah,arjunabdullah506@staffmail.example,605559108589,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DISPATCHER
+7b53359e-1bac-4d0d-af35-b30b4c68eb17,Daniel Abdullah,danielabdullah165@staffmail.example,605555454443,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,SORTER
+db7904e0-ce30-461d-8e88-c8ece651e3e1,Nurul Nair,nurulnair921@staffmail.example,605559652074,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,SORTER
+090aaa93-bc9a-4998-a365-fc2a6793cb09,Wei Jie Ismail,weijieismail697@staffmail.example,605559353875,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,HUB_MANAGER
+a8596f8c-d734-48fe-ab84-3ef3d86d655d,Siti Abdullah,sitiabdullah997@staffmail.example,605558241724,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,DISPATCHER
+55ec024a-e64b-4b37-ae01-a122f269921c,Siti Lim,sitilim770@staffmail.example,605551353465,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,SORTER
+d9e92758-76b9-4436-8b46-ef3395e7f614,Mei Ling Abdullah,meilingabdullah220@staffmail.example,605557099917,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,SORTER
+87a37f10-61b5-42ed-ae42-3568de14553b,Hafiz Tan,hafiztan405@staffmail.example,605556022356,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,HUB_MANAGER
+b7360c4f-dcc5-4975-90fe-819924aa5685,Daniel Krishnan,danielkrishnan284@staffmail.example,605551752500,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,DISPATCHER
+2b29bf36-c606-4dc4-82dd-901d359a1533,Arjun Abdullah,arjunabdullah690@staffmail.example,605552712966,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,SORTER
+0131ff3b-6221-4670-ba36-e788f71fb9a6,Priya Ismail,priyaismail138@staffmail.example,605558350583,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,SORTER
+39ec8ca1-3fb2-4f47-bbcd-6c18a06e8de5,Aisyah Rahman,aisyahrahman810@staffmail.example,605555421689,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,HUB_MANAGER
+4c56fb8f-0bb4-42b3-92e7-6deb10b6a662,Wei Jie Lim,weijielim397@staffmail.example,605557898562,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,DISPATCHER
+2a35ce30-303c-404b-8007-93365bf7dda1,Mei Ling Krishnan,meilingkrishnan931@staffmail.example,605556033230,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,SORTER
+a689d07f-b60b-4f87-9dd8-effc1f878b32,Daniel Lim,daniellim911@staffmail.example,605550648909,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,SORTER
+0c5921f8-050d-4bfe-960b-f603a750350e,Jia Hao Lee,jiahaolee806@staffmail.example,655551676184,88bd6407-2bcf-4e01-a28d-efe39bf00273,HUB_MANAGER
+a15c159a-af8c-4888-b1f8-1ad9349b5089,Wen Ting Chua,wentingchua109@staffmail.example,655554618499,88bd6407-2bcf-4e01-a28d-efe39bf00273,DISPATCHER
+82f73861-1adb-48cf-a60c-1638d4a5a81e,Ravi Goh,ravigoh836@staffmail.example,655559141173,88bd6407-2bcf-4e01-a28d-efe39bf00273,SORTER
+85ece729-d4dd-4b56-8353-91b2c72850c1,Nadia Pillai,nadiapillai306@staffmail.example,655555642087,88bd6407-2bcf-4e01-a28d-efe39bf00273,SORTER
+03438b64-00b3-400f-bc08-899054a27051,Kavitha Lim,kavithalim787@staffmail.example,655551197218,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,HUB_MANAGER
+3b2d520b-a4f3-4185-8182-2509e79f9f3d,Xin Yi Lee,xinyilee567@staffmail.example,655554470120,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DISPATCHER
+6d0e0597-500d-42a7-ad40-9244cd3566ef,Marcus Ong,marcusong856@staffmail.example,655551100225,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,SORTER
+e0e3c5ce-44af-4cb7-9f2e-befcf480b91e,Priscilla Lim,priscillalim850@staffmail.example,655551552166,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,SORTER
+d9c59cd9-b09d-421b-a2be-4009d5f0fb6a,Malee Prasert,maleeprasert589@staffmail.example,665556212021,5cabcc97-663f-4c97-9562-69f0e5d7b875,HUB_MANAGER
+adab2c2f-91a6-46da-8d61-39887b90942f,Thanawat Kaewmanee,thanawatkaewmanee548@staffmail.example,665552965902,5cabcc97-663f-4c97-9562-69f0e5d7b875,DISPATCHER
+70d0ebcb-6949-4ce5-a339-5b1a1ce97871,Malee Wattana,maleewattana147@staffmail.example,665551450899,5cabcc97-663f-4c97-9562-69f0e5d7b875,SORTER
+85ea16e0-84e3-4774-969a-def0df865633,Pimchanok Boonmee,pimchanokboonmee804@staffmail.example,665559163756,5cabcc97-663f-4c97-9562-69f0e5d7b875,SORTER
+0df80b89-9ce7-4ed1-bcdf-e961e45e2ad0,Agus Lestari,aguslestari111@staffmail.example,625552877217,877409a9-77d2-4e02-bf01-cf99988c24c9,HUB_MANAGER
+0ce3c8c8-4735-4e4f-b85b-6d0a54b58635,Putri Wijaya,putriwijaya619@staffmail.example,625553866317,877409a9-77d2-4e02-bf01-cf99988c24c9,DISPATCHER
+7f9ad277-db49-4e6d-9688-782f72b696ca,Wulan Lestari,wulanlestari557@staffmail.example,625555170166,877409a9-77d2-4e02-bf01-cf99988c24c9,SORTER
+1744ee3f-d36e-41bd-800b-1f5e8c91bd13,Budi Lestari,budilestari910@staffmail.example,625559948837,877409a9-77d2-4e02-bf01-cf99988c24c9,SORTER
+39112943-d10b-44dc-8de4-faf4d34794cc,Thao Le,thaole964@staffmail.example,845557589975,2dbc2134-c30f-446e-8026-695ff8cda88b,HUB_MANAGER
+38c46b38-a8ae-47b9-8262-cad018f1a1e4,Mai Nguyen,mainguyen102@staffmail.example,845555548851,2dbc2134-c30f-446e-8026-695ff8cda88b,DISPATCHER
+b783e1d5-d264-44b9-a3f4-7a557e0f60b2,Minh Tran,minhtran860@staffmail.example,845556149331,2dbc2134-c30f-446e-8026-695ff8cda88b,SORTER
+30c9c51f-c80b-4af7-9315-fafa7500f785,Tuan Tran,tuantran833@staffmail.example,845555160917,2dbc2134-c30f-446e-8026-695ff8cda88b,SORTER
+22778161-8113-47a8-b4c8-e39396dd6c82,Mio Ito,mioito610@staffmail.example,815550808697,1ca35cfb-04fc-4d82-bd15-438552fbe43b,HUB_MANAGER
+d0b3d752-bb01-42a5-ac74-5800941c23fa,Kenji Ito,kenjiito231@staffmail.example,815551699586,1ca35cfb-04fc-4d82-bd15-438552fbe43b,DISPATCHER
+3f8c93d4-c32a-4c4a-b148-b2a6ea7917e1,Daiki Watanabe,daikiwatanabe380@staffmail.example,815556547226,1ca35cfb-04fc-4d82-bd15-438552fbe43b,SORTER
+b63d65d5-505c-4527-9c57-546d8c3d031a,Takumi Ito,takumiito854@staffmail.example,815558333945,1ca35cfb-04fc-4d82-bd15-438552fbe43b,SORTER
+2d852212-f554-41f8-b9a5-5cf2a66c0fa1,Jonas Koch,jonaskoch615@staffmail.example,495558515879,f264accc-79ac-4b1e-a8e5-6e0c20de435d,HUB_MANAGER
+88addab1-d765-4a18-a4d4-66ebbf74531c,Tobias Koch,tobiaskoch392@staffmail.example,495556081062,f264accc-79ac-4b1e-a8e5-6e0c20de435d,DISPATCHER
+c00c200c-4458-4006-b32c-ce0a0e7da698,Lukas Koch,lukaskoch904@staffmail.example,495552442043,f264accc-79ac-4b1e-a8e5-6e0c20de435d,SORTER
+9db94eee-1a3c-4131-b3dd-3bc6d06405a8,Lukas Fischer,lukasfischer988@staffmail.example,495558386384,f264accc-79ac-4b1e-a8e5-6e0c20de435d,SORTER
+c9c1ad45-f4ea-4b97-aaa4-15b56336c815,Wei Liu,weiliu801@staffmail.example,865555800439,7394988f-847f-49b4-a64d-1bcb702753a1,HUB_MANAGER
+b5a4c55b-b462-4214-a23f-f67de9572bc2,Xiu Ying Li,xiuyingli763@staffmail.example,865555989334,7394988f-847f-49b4-a64d-1bcb702753a1,DISPATCHER
+2fddb26a-1310-4665-aec2-bb19fbc398d8,Xiu Ying Li,xiuyingli277@staffmail.example,865558160648,7394988f-847f-49b4-a64d-1bcb702753a1,SORTER
+4148bd11-d894-42e8-9580-1c3a2932a211,Hao Li,haoli105@staffmail.example,865555720259,7394988f-847f-49b4-a64d-1bcb702753a1,SORTER
+4d187b75-a971-431f-97d8-05949d9887bc,Wei Yang,weiyang602@staffmail.example,865559851583,dc1110c1-080a-4dfb-a7c9-9b26114125c6,HUB_MANAGER
+28cc812a-8150-40c9-8948-384b11740357,Jun Chen,junchen525@staffmail.example,865558861533,dc1110c1-080a-4dfb-a7c9-9b26114125c6,DISPATCHER
+f3476736-37ec-47a6-8b27-b0795c5d3f1b,Mei Zhang,meizhang870@staffmail.example,865559878015,dc1110c1-080a-4dfb-a7c9-9b26114125c6,SORTER
+eb29d912-9d1b-43df-a46b-6fcee78d147c,Xiu Ying Li,xiuyingli736@staffmail.example,865553056164,dc1110c1-080a-4dfb-a7c9-9b26114125c6,SORTER
+d275bd43-8451-4303-a94d-4fbe06531d47,Siti Abdullah,sitiabdullah888@staffmail.example,605555887704,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DRIVER
+189099c9-f2be-429f-9514-9755838e9a61,Hafiz Wong,hafizwong271@staffmail.example,605558801336,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DRIVER
+e0ee5e8a-b3e6-44c6-9428-df6c89aa4293,Farid Nair,faridnair859@staffmail.example,605556120750,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,DRIVER
+407d0aff-cb51-4911-ad90-e4ee0de4833e,Farid Tan,faridtan671@staffmail.example,605551934667,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,DRIVER
+ac5d4e57-63b6-44f4-8452-f77950ffde64,Priya Ismail,priyaismail221@staffmail.example,605558091901,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,DRIVER
+4d2551eb-af95-4e79-8971-bf514a32bb22,Mei Ling Tan,meilingtan721@staffmail.example,605551476607,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,DRIVER
+cbf925b5-6418-46b7-bf2b-43b422e9e527,Nurul Nair,nurulnair916@staffmail.example,605558424508,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,DRIVER
+929daf9f-0149-42af-8ab1-a5041f8c56e0,Siti Lim,sitilim710@staffmail.example,605556881435,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,DRIVER
+8336a758-d9f9-4502-a55b-c44fe7d73d1d,Kavitha Goh,kavithagoh245@staffmail.example,655552239431,88bd6407-2bcf-4e01-a28d-efe39bf00273,DRIVER
+fd75a5f3-eeaf-4a83-8044-46bfd9f48bbd,Ravi Tan,ravitan662@staffmail.example,655557814141,88bd6407-2bcf-4e01-a28d-efe39bf00273,DRIVER
+20d2b528-5b6d-4b7c-94b2-a582f3981e9e,Kavitha Lim,kavithalim787@staffmail.example,655553149135,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DRIVER
+4e40bfba-a8cf-4589-9dc8-9e1a540e7d01,Wen Ting Lim,wentinglim810@staffmail.example,655559299556,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DRIVER
+38b5e89a-c921-457c-bf05-557c502ed818,Anan Chaiyasit,ananchaiyasit829@staffmail.example,665556452577,5cabcc97-663f-4c97-9562-69f0e5d7b875,DRIVER
+8d3a5d76-7caa-481b-8e33-6644c65720ae,Malee Prasert,maleeprasert211@staffmail.example,665552914283,5cabcc97-663f-4c97-9562-69f0e5d7b875,DRIVER
+ba388c8f-1393-49d1-a06a-187de2e6e7a6,Rizky Susanto,rizkysusanto177@staffmail.example,625550809969,877409a9-77d2-4e02-bf01-cf99988c24c9,DRIVER
+e4dc4306-8b20-4e3e-82b7-c0488d3543be,Dewi Santoso,dewisantoso652@staffmail.example,625557256394,877409a9-77d2-4e02-bf01-cf99988c24c9,DRIVER
+6593b659-172e-4c68-82aa-5c4680499bbf,Duc Pham,ducpham472@staffmail.example,845558039282,2dbc2134-c30f-446e-8026-695ff8cda88b,DRIVER
+90d9170c-f2de-475c-90fc-c9f12ddc756b,Mai Tran,maitran775@staffmail.example,845552750373,2dbc2134-c30f-446e-8026-695ff8cda88b,DRIVER
+ab286d09-0af5-4e60-bbe8-a5df5e934de0,Yui Takahashi,yuitakahashi311@staffmail.example,815558567700,1ca35cfb-04fc-4d82-bd15-438552fbe43b,DRIVER
+a2317211-8578-41c6-b7eb-c69ab4280f0d,Aoi Sato,aoisato949@staffmail.example,815554498926,1ca35cfb-04fc-4d82-bd15-438552fbe43b,DRIVER
+d5e14d1f-e5f2-4dfb-a741-104b96721e98,Tobias Fischer,tobiasfischer179@staffmail.example,495558463865,f264accc-79ac-4b1e-a8e5-6e0c20de435d,DRIVER
+9aad9234-e31d-4345-bb6b-911ecaeb9959,Sabine Weber,sabineweber106@staffmail.example,495558272318,f264accc-79ac-4b1e-a8e5-6e0c20de435d,DRIVER
+5cbaa496-2848-4240-afd9-0ce1267627ca,Hao Li,haoli716@staffmail.example,865551365177,7394988f-847f-49b4-a64d-1bcb702753a1,DRIVER
+d5576899-a5b2-47ea-a947-6f54973e129c,Xiu Ying Li,xiuyingli520@staffmail.example,865550302992,7394988f-847f-49b4-a64d-1bcb702753a1,DRIVER
+92803da2-e40b-40e4-8a08-6989833c8f55,Jun Yang,junyang250@staffmail.example,865550242869,dc1110c1-080a-4dfb-a7c9-9b26114125c6,DRIVER
+48907b6d-d240-4f02-a968-1fc1ba5c865d,Wei Yang,weiyang187@staffmail.example,865553797723,dc1110c1-080a-4dfb-a7c9-9b26114125c6,DRIVER
+c47a3b7e-d209-483b-9528-4c0acb6bf562,Daniel Lim,daniellim286@staffmail.example,605559842579,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,DRIVER
+21d8b96a-62ad-4157-a0d2-759a3ad51382,Daniel Tan,danieltan211@staffmail.example,605550388629,c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,DRIVER
+09fe4cdd-998d-45ba-9d60-22c5e6cfcbd8,Nurul Krishnan,nurulkrishnan998@staffmail.example,605558811729,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DRIVER
+adb610f4-c65d-486e-b00f-63efe59fc1c2,Siti Rahman,sitirahman764@staffmail.example,605556865086,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DRIVER
+bdcbfffc-cdfb-44e9-96cb-dafb59bb8900,Arjun Ismail,arjunismail879@staffmail.example,605559162473,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,DRIVER
+689d1205-8b31-44d8-a073-c1d09929afeb,Farid Abdullah,faridabdullah363@staffmail.example,605553009818,96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,DRIVER
+68aa1236-50de-4f43-8de5-c35ab0117b0a,Priya Nair,priyanair470@staffmail.example,605551269448,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DRIVER
+ae3c2ce6-fde6-449b-868b-22af9ca4364d,Priya Wong,priyawong506@staffmail.example,605553688725,8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,DRIVER
+b49b4b72-c631-4c16-9827-bc1d93e0f235,Marcus Rahim,marcusrahim507@staffmail.example,655552137213,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DRIVER
+8cf29000-cd04-4001-96a3-dcccc93c9cc6,Darren Goh,darrengoh728@staffmail.example,655550260127,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DRIVER
+147d7bfc-5eef-4d1e-b8c5-ef5e4359ff43,Xin Yi Lee,xinyilee723@staffmail.example,655550669849,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DRIVER
+02bdeabe-7060-48eb-be8e-ed12a3ea21a2,Jia Hao Chua,jiahaochua306@staffmail.example,655558430988,3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,DRIVER
+a7af5545-3d3f-4c1b-9c17-ebb5093b4d72,Jun Yang,junyang100@staffmail.example,865552146566,7394988f-847f-49b4-a64d-1bcb702753a1,DRIVER
+1190e515-b420-4103-bca7-26eb03ef0f77,Li Na Chen,linachen192@staffmail.example,865558489554,7394988f-847f-49b4-a64d-1bcb702753a1,DRIVER
+0130d66b-932d-4648-a769-b0f1ee01b9e0,Li Na Liu,linaliu367@staffmail.example,865552681818,7394988f-847f-49b4-a64d-1bcb702753a1,DRIVER
+8366c189-cd8d-4f75-9df4-4d3ef26f9b19,Hao Zhang,haozhang363@staffmail.example,865558947697,7394988f-847f-49b4-a64d-1bcb702753a1,DRIVER

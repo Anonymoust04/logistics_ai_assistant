@@ -1,0 +1,131 @@
+client_id,client_type,name,contact_name,email,phone,address_id
+d89a40c0-e87d-4c78-a7c4-21c740497b71,BUSINESS,Fairwind Textiles Sdn Bhd,Wei Jie Krishnan,fairwindtextilessdnbhd16@example.com,605556400524,be0f051b-1b66-45a9-a3c4-36571d8cbbac
+e623a689-5d59-4d2a-8eea-04e70ab54bde,BUSINESS,Ironwood Supplies Sdn Bhd,Priya Lim,ironwoodsuppliessdnbhd15@example.net,605553315869,b0e6a969-e213-42b0-b1ee-dba313432e61
+61ee411a-1bac-47a7-b386-f7a4c991603f,PERSON,Wei Jie Lim,,weijielim14@example.net,605553375433,2dea9493-0658-463a-a98c-206fe1a47e10
+43f59a85-fbc9-487a-b668-a61794a1875d,BUSINESS,Alder Components Sdn Bhd,Wei Jie Lim,aldercomponentssdnbhd14@example.com,605559655698,8268690b-a438-45b5-99e4-b6714774bc58
+d9178793-a9d3-42e6-905c-c6869f871ce7,BUSINESS,Fairwind Furniture Sdn Bhd,Farid Wong,fairwindfurnituresdnbhd25@example.org,605554846564,89d7fd6c-ce77-4f00-acf2-7e7685197ff4
+9b4e2c24-9479-41e6-8927-7d9b6e0d2648,PERSON,Wei Jie Nair,,weijienair93@example.net,605557773872,2dea9493-0658-463a-a98c-206fe1a47e10
+935f2b0a-a138-4ddc-a2d9-de5d6a18ce4c,PERSON,Farid Krishnan,,faridkrishnan34@example.org,605556763201,32fa2de8-ce7a-47f6-b982-0cff4f77a665
+714c7df4-e434-4d51-8158-1092f335cba3,PERSON,Siti Wong,,sitiwong88@example.org,605558687277,eadf5085-3fcb-4546-8eb2-25790cdb1ca4
+271e3ee2-b1a6-41f1-a20e-99d33b33f3d8,BUSINESS,Fairwind Components Sdn Bhd,Nurul Lim,fairwindcomponentssdnbhd37@example.com,605556658760,709b7d97-464c-44af-bd3f-3799a07295e9
+076e2bba-7c53-48bf-af92-f25e45df16b6,BUSINESS,Granite Textiles Sdn Bhd,Arjun Nair,granitetextilessdnbhd59@example.net,605556272980,6160a6b4-9360-415f-83fe-0183e172b725
+473bd358-610e-4a64-a130-1617c2dff335,PERSON,Mei Ling Wong,,meilingwong63@example.net,605551708053,2e85cb21-7631-4e9d-9de9-f86322bd3388
+5e6fea07-c453-4f1d-8199-2fdfb31022f0,PERSON,Hafiz Krishnan,,hafizkrishnan31@example.org,605559124190,2702878b-9f0f-4a8d-8537-9ff6d6d7b3b8
+a9597663-6daa-4e68-8861-fe1858e25888,PERSON,Farid Rahman,,faridrahman57@example.com,605558506716,a092f52a-d4a0-47a7-b0cc-1b3b9793b9b4
+44b591f7-97ac-4aa8-bb24-88a3d36357b6,PERSON,Arjun Ismail,,arjunismail51@example.com,605551473799,45241ea6-a684-4099-b729-4951859131d2
+15eabb27-30e9-42f2-b2b4-3abf8441aefd,PERSON,Siti Rahman,,sitirahman40@example.org,605556783777,5ad5cf06-364d-4c87-bcd0-129d2e8d0e87
+1ee34dc4-3b04-4a8b-805b-fdc94e7ed827,PERSON,Arjun Abdullah,,arjunabdullah34@example.net,605551823374,58007c02-87ea-4ff5-8db0-674679279973
+f1afdb65-b289-4224-8ac9-778d8da8eee4,PERSON,Aisyah Rahman,,aisyahrahman26@example.org,605557109477,2defe193-5c62-43a2-ba3c-563e4bd6cee6
+4dc82a1e-f2f9-45fa-9016-4161cfa701cd,PERSON,Nurul Lim,,nurullim20@example.com,605551869993,6694c343-10ba-48e3-9276-2bdc1d34d08e
+2834e4c0-14c8-43b4-a911-d19243bfd931,PERSON,Hafiz Nair,,hafiznair40@example.com,605558120679,9191b363-4e2d-4645-adc7-cac7fd72b050
+a5cb63a2-398d-4ca6-8b68-70b51d61fac3,PERSON,Hafiz Ismail,,hafizismail29@example.net,605552102499,3bc1a987-aff8-454d-9238-d630743b65a2
+f63fce41-3a9a-4a5e-9761-32ed069f14f1,PERSON,Mei Ling Abdullah,,meilingabdullah96@example.org,605559049027,8a3c3b5e-801e-41da-85b1-ed25f1533ae8
+7ed70ed7-b194-490b-a961-929e546e035a,PERSON,Farid Lim,,faridlim46@example.org,605556807154,f8140102-7de1-4dfe-9072-5b5ca2814044
+49bc473f-ed7b-4656-a18a-15368c99a894,BUSINESS,Horizon Trading Sdn Bhd,Hafiz Abdullah,horizontradingsdnbhd66@example.org,605557109324,69ca97d2-7644-44fd-8ae7-69edde8ede0b
+faf14ff0-7b85-479a-95b0-77e06a5d932b,PERSON,Siti Abdullah,,sitiabdullah70@example.com,605557826398,1e1242e3-f272-42b6-b621-72ed1d0bc9bd
+89e06ab3-7250-4e18-a60a-5962dd81b7f5,PERSON,Daniel Krishnan,,danielkrishnan71@example.net,605555886753,c9a7d91f-ef2a-4713-9702-10496a39aaa6
+9716108e-f721-49bb-8096-27182051acef,PERSON,Arjun Rahman,,arjunrahman52@example.com,605557187026,7914f8a8-bea4-4f31-9174-00f80b2c782a
+9e11d2cd-0930-4ef6-8a80-068ddf547e50,PERSON,Mei Ling Krishnan,,meilingkrishnan18@example.com,605554316117,da0d4a5f-148f-4b74-a65b-b1f265c17795
+7f671eec-3da7-4577-aee1-e86b9ea556aa,BUSINESS,Cobalt Supplies Sdn Bhd,Farid Ismail,cobaltsuppliessdnbhd84@example.com,605553747407,25440fe0-6e41-4d47-9ff5-95ea5bc440f1
+3cb98350-1b4d-40fe-bbb3-8605da743152,PERSON,Hafiz Ismail,,hafizismail58@example.org,605555944064,a3917c99-4c95-4f6a-966b-1964fcd6bdca
+c478f6f1-b88e-4318-816d-83edad81f8bd,BUSINESS,Delta Harbor Textiles Sdn Bhd,Daniel Abdullah,deltaharbortextilessdnbhd94@example.org,605552104709,e726be23-e776-4886-9534-ee1d7f2984f5
+f1b64afe-d31e-4f1a-a9ff-1cae41c8ca8c,PERSON,Wei Jie Lim,,weijielim71@example.net,605555171236,c958e75e-21d5-4971-b367-49b52cf6bf75
+e25d36eb-9e9a-4f83-8668-03ee78b2b549,PERSON,Farid Nair,,faridnair81@example.net,605559317461,bfbf397b-ac3e-4b0d-9e5b-a13d746cdb77
+687a4850-9d9b-4231-bd45-d8efd56ce8ea,BUSINESS,Granite Supplies Sdn Bhd,Priya Tan,granitesuppliessdnbhd45@example.com,605555377351,637e4b01-22ba-410e-899c-a782e3236d1a
+3e5a87e3-5560-4b22-896b-5edb0cf2b69b,PERSON,Daniel Rahman,,danielrahman26@example.org,605553183933,f2f25eef-1f45-4bfd-b7dc-67e030974b2b
+2c9b662e-040a-4aae-92e2-afd996bf10ab,BUSINESS,Cobalt Trading Sdn Bhd,Mei Ling Nair,cobalttradingsdnbhd43@example.com,605552681177,21472a15-fcce-46f6-a50a-4578fbe94499
+afa415e5-6d20-4496-a6d0-6371d8e88ebb,PERSON,Aisyah Krishnan,,aisyahkrishnan23@example.net,605557115921,ddf275eb-e8a3-4341-8881-9065ba2c98ce
+56c438e4-69ef-4fb1-ba7e-8e14e359eee1,BUSINESS,Ironwood Textiles Sdn Bhd,Priya Krishnan,ironwoodtextilessdnbhd68@example.net,605556156545,4b7e6b3c-87d2-42a6-98ee-ac2bfe9fecaa
+5a856750-692a-4139-9f4a-8ca1ab85fd59,PERSON,Daniel Wong,,danielwong95@example.net,605550494519,be9d61ee-18b8-4245-ae8f-75a117dded81
+d4578ad9-a867-4096-add8-77c89be71737,PERSON,Daniel Rahman,,danielrahman98@example.net,605550244550,92f837d4-4750-4f1d-833a-1f6c1d691fba
+f10013a7-c6de-42f0-930a-c1c7b8ba8368,BUSINESS,Fairwind Supplies Sdn Bhd,Mei Ling Abdullah,fairwindsuppliessdnbhd82@example.org,605551022901,177d6e7e-07d9-44ce-b8c8-8faea2178f84
+0e0630cd-996d-4c50-bc04-a168652ffb49,BUSINESS,Horizon Electronics Pte Ltd,Jia Hao Pillai,horizonelectronicspteltd10@example.com,655554324451,585d3f86-1d23-44e6-8329-20b7c143f426
+6de59332-9364-43d0-9024-bdc6dcb33df3,BUSINESS,Granite Trading Pte Ltd,Wen Ting Lee,granitetradingpteltd83@example.net,655556416052,ce6322b6-ab05-447f-9556-b37d8f0881ee
+82af085c-138d-494c-ab0a-beddc77444cb,PERSON,Kavitha Ong,,kavithaong91@example.com,655558835523,96c044d0-6f88-4f28-be49-fd091b19d8b8
+71348c2a-780b-4657-917b-355b70944bdb,BUSINESS,Juniper Foods Pte Ltd,Priscilla Chua,juniperfoodspteltd90@example.net,655554905814,7e7e7419-a0c1-4035-85d9-5f51f387e1bd
+80599b93-79c2-42e4-9ae1-a991524f93ff,PERSON,Wen Ting Pillai,,wentingpillai29@example.com,655557151820,96c044d0-6f88-4f28-be49-fd091b19d8b8
+62f5df2b-adaa-44ca-8ed6-ad5e18318aa3,BUSINESS,Alder Foods Pte Ltd,Xin Yi Ong,alderfoodspteltd46@example.net,655559251925,486bb6bf-eafd-47d9-9f73-3a3e5d286aa4
+2e25b5ee-4f11-48dc-9cd3-336904aac1b7,BUSINESS,Brightway Furniture Pte Ltd,Darren Ong,brightwayfurniturepteltd37@example.net,655557332214,caaa5bbe-a4bb-4962-a06e-0e1c8f158449
+c566aa81-b15e-44f6-94d3-07952e4bebc4,PERSON,Ravi Chua,,ravichua89@example.com,655557065379,56363094-a974-41db-89a9-d1c186cac6f4
+df7d0dd7-236e-4608-9acb-394acd1f5318,BUSINESS,Granite Furniture Pte Ltd,Ravi Pillai,granitefurniturepteltd42@example.com,655557581814,f2771f63-ada5-4417-9e2a-d32d31ab0b56
+14e4180c-fe99-46a3-a2db-c8503c5bf3a7,BUSINESS,Granite Trading Pte Ltd,Ahmad Ong,granitetradingpteltd57@example.com,655550515220,e916da57-f248-43ab-977a-8a5f6ffe33b3
+0c394ec7-1f31-4405-8d18-3eba3cd5fd7f,BUSINESS,Juniper Furniture Pte Ltd,Xin Yi Rahim,juniperfurniturepteltd40@example.net,655559711798,144823f7-e7e6-46c7-8158-24639d8776a0
+0b251279-785a-45d0-9f92-a62163f4c69d,BUSINESS,Ironwood Foods Pte Ltd,Xin Yi Tan,ironwoodfoodspteltd91@example.net,655555405153,3d959e3f-5a52-46e6-9d64-29320066853d
+f1901b7e-c6b4-49ef-b74e-ba9310275b53,PERSON,Ravi Chua,,ravichua68@example.com,655554303054,a48e40f1-d042-4dfa-96ab-087a8bc78e81
+7092947d-be49-49ec-a667-d3bbe3b56360,PERSON,Priscilla Goh,,priscillagoh59@example.net,655552775841,c7e53bbb-dcb5-4c53-9b62-a8df493e904d
+ba108217-0ad7-49a2-b277-16ec59fefbbc,PERSON,Ravi Lim,,ravilim55@example.org,655556401658,a9320094-53f2-4f11-947f-65701a43db54
+732e2016-add7-42c9-a747-b93c9ae77eab,PERSON,Ahmad Tan,,ahmadtan57@example.net,655557192856,20509c62-08e8-45d7-b02c-1821c8040fb7
+12f5131a-da52-42ee-a2bf-18f51f652a87,BUSINESS,Delta Harbor Electronics Pte Ltd,Wen Ting Pillai,deltaharborelectronicspteltd67@example.com,655557155188,8fc9c86b-e9dd-4bf5-a311-9aca848af440
+8d38bbd8-fba6-4bf7-8dbc-c65377a7e8b7,BUSINESS,Alder Foods Pte Ltd,Darren Ong,alderfoodspteltd26@example.org,655551146786,1f119c0f-3967-460a-823d-d1075c8ac066
+de431e06-e924-4069-80bb-ae526ec01269,PERSON,Ravi Chua,,ravichua17@example.com,655558242253,8471b4b0-ae1b-4f69-b740-d83173318749
+b87b6384-9fdd-4e2e-a8a2-b7ad2bd3cdcd,BUSINESS,Ironwood Supplies Pte Ltd,Nadia Chua,ironwoodsuppliespteltd87@example.net,655559001094,46426c45-8d03-417a-b4d3-75c1a29319fa
+2877f5d9-0f56-45f8-b048-faa112ae5c22,PERSON,Kittipong Wattana,,kittipongwattana66@example.net,665557735925,a4540937-4a27-4bf2-8baa-f744a08dd21b
+0cf477ef-18c8-4616-a410-8e9a3f779cae,PERSON,Kittipong Wattana,,kittipongwattana47@example.net,665559632595,a4540937-4a27-4bf2-8baa-f744a08dd21b
+e1e0fffc-98f6-4d7f-beb1-62f14806f804,BUSINESS,"Juniper Foods Co., Ltd.",Somchai Chaiyasit,juniperfoodscoltd93@example.org,665557480162,f1fac6e7-170d-4507-85ee-e1d47f53a88e
+20f0156a-1e6a-4628-9c6d-52d5ae2e9af9,PERSON,Kittipong Kaewmanee,,kittipongkaewmanee22@example.net,665555585239,8da00495-5cce-4ba9-b1d4-ee098fd33afc
+bd44089d-9dd2-49de-bd98-fe336498abe9,PERSON,Suda Suwan,,sudasuwan48@example.org,665555888794,2620f9a9-74fd-43d1-84f2-fd0f79474bfa
+f8d8b7f1-c86c-4544-a7d4-cf50f791f1e5,PERSON,Malee Prasert,,maleeprasert84@example.org,665553097289,e61599c8-cbf8-4f86-8ec3-f970956d80e4
+23595fa4-b4ad-4f89-8ff1-aa9fba370623,PERSON,Malee Boonmee,,maleeboonmee76@example.com,665558578652,6b352f85-504e-4687-b0e7-e75604d9145e
+f910abb3-f105-4252-b990-e2c94c6a70f4,PERSON,Kittipong Kaewmanee,,kittipongkaewmanee48@example.net,665553757584,cdbc2c1c-a4af-47bd-ae45-5cc6b88e830f
+d3f4a49b-33ba-4a88-b6c7-d6fa7aa4f052,BUSINESS,"Fairwind Instruments Co., Ltd.",Kittipong Boonmee,fairwindinstrumentscoltd78@example.net,665558421993,cdfb4db9-c5e7-4b23-b461-3f09585abefb
+79c773a0-e0de-4c3d-a172-1c83ef5e4376,BUSINESS,"Ironwood Supplies Co., Ltd.",Thanawat Boonmee,ironwoodsuppliescoltd71@example.org,665553454019,b7a4c719-548e-4f6b-a9ce-1e4e19a692c9
+1b780ede-9a4f-4c0c-9165-f2ed4c636e95,BUSINESS,"Cobalt Electronics Co., Ltd.",Somchai Chaiyasit,cobaltelectronicscoltd52@example.net,665557887287,ef158d5b-2d00-4d05-966d-4627e1dace6a
+ab545a15-669d-41ff-9634-725b53f30073,BUSINESS,"Cobalt Furniture Co., Ltd.",Thanawat Kaewmanee,cobaltfurniturecoltd22@example.com,665552753046,564cfbd2-bc92-4d81-839b-058c2faabe0b
+f0cd7f05-ea87-455e-a382-95d31e0ef546,BUSINESS,"Cobalt Furniture Co., Ltd.",Kittipong Boonmee,cobaltfurniturecoltd47@example.net,665559332727,b1594847-5c0b-4b10-a757-cb1042f525b9
+5c9deee0-b42a-4456-8736-5a84725e134d,PERSON,Naree Kaewmanee,,nareekaewmanee19@example.org,665551088398,aa0217d0-cd4f-4b2b-899a-c252c1e1b94a
+ac3a812f-765e-4cb5-8f0d-55400ec7d662,BUSINESS,"Ironwood Furniture Co., Ltd.",Malee Kaewmanee,ironwoodfurniturecoltd49@example.org,665550640391,e61d9cde-1747-4387-bd23-d47995492a82
+f6d22a7b-aec7-4a82-948b-4376602a4e57,BUSINESS,PT Fairwind Furniture,Wulan Hidayat,ptfairwindfurniture94@example.org,625552512868,081fc6dc-78d9-488a-af0b-ea4ffc737d92
+c3f725fe-b99b-4b5a-a00d-a49deffa2002,BUSINESS,PT Fairwind Supplies,Rizky Wijaya,ptfairwindsupplies24@example.com,625556903311,6c93a791-8b60-4511-b816-8aebac6a7c85
+937bf79b-bb44-4adc-aa98-fef8d0d75e37,PERSON,Rizky Wijaya,,rizkywijaya50@example.org,625559534283,379ef467-8a2d-42e6-bbfd-a8a6705fddf5
+4cc57e0d-2633-4018-a883-ac6e6a944054,PERSON,Putri Susanto,,putrisusanto58@example.com,625558733427,379ef467-8a2d-42e6-bbfd-a8a6705fddf5
+0d31812e-30c3-4756-9453-f867b97e6224,PERSON,Sari Lestari,,sarilestari44@example.net,625559901398,340de049-4147-4506-be2b-f9c9636f6e5c
+48769153-c688-43fe-9255-5c758d55119e,BUSINESS,PT Juniper Textiles,Hendra Wijaya,ptjunipertextiles58@example.net,625558544587,bdd151b0-f64a-46ec-b0a5-648eefe9b3d0
+b852b3cd-9442-45e6-9583-1d58ef4c5119,PERSON,Rizky Lestari,,rizkylestari63@example.net,625552353693,0bb401e7-69f7-43f1-901b-a8515ee68495
+2f1dc121-7d02-4c6d-8bea-75c1b86677aa,PERSON,Agus Wijaya,,aguswijaya79@example.org,625550801006,a4461663-b93b-47fb-b76d-15fd7d1645a0
+04482a22-0308-4a5e-a94d-7b008d388327,BUSINESS,PT Horizon Trading,Budi Lestari,pthorizontrading77@example.org,625554840862,0f79a8a7-5f8a-44bd-b4bd-0c938177b661
+14a34f7f-d90d-419b-93fb-e043af1d5a1a,BUSINESS,PT Juniper Textiles,Dewi Pratama,ptjunipertextiles93@example.org,625550166687,446f64dd-5abc-46e5-90b1-e3eb409e7a80
+af36b8cc-1308-4974-ac95-b3ac0beb7c34,BUSINESS,PT Delta Harbor Textiles,Wulan Pratama,ptdeltaharbortextiles45@example.org,625559025039,fa323f69-90db-4ad6-94ce-26bec8cce2c2
+0dbf0caf-588a-4f87-b96d-40f8bed63da0,BUSINESS,PT Granite Supplies,Sari Lestari,ptgranitesupplies22@example.net,625553159996,d5aba8ae-9112-4bc0-bd8f-95f4905f9096
+b68e47fa-3f17-4534-8c4d-58194b9dfd58,PERSON,Sari Lestari,,sarilestari19@example.com,625554262655,f0eebcce-8d93-414a-9b16-71583a67470c
+c8d0f9e5-9919-45ea-98d0-0c2c17d30f32,BUSINESS,PT Alder Components,Putri Lestari,ptaldercomponents51@example.net,625550466183,6e54ac6d-2ff8-487e-9659-1c8921ebfaa9
+9803b22e-7eec-488d-a002-352ab88cddde,PERSON,Rizky Wijaya,,rizkywijaya88@example.com,625557124065,6f46f1b1-2ace-4aa9-9032-46b3255bfc1c
+7db2a7aa-a205-454f-b1e8-c09dbc20b9f2,PERSON,Thao Le,,thaole83@example.com,845555646519,f280df1d-9a6c-4db9-9217-1c884ce953a7
+6c521d13-b719-4b68-a775-ee42a89e22f2,BUSINESS,"Cobalt Electronics Co., Ltd.",Huong Le,cobaltelectronicscoltd58@example.com,845557979688,4a94ae9f-cc35-4e4f-b03e-957f35ab8466
+a590fd3c-ad6e-4c57-a520-c3d0fbcdbf5e,PERSON,Minh Hoang,,minhhoang61@example.net,845556101438,1bffa279-15c1-404f-aa16-3354a35fc9c1
+baeb286b-f0d0-470f-94d1-3d551db6b844,PERSON,Tuan Nguyen,,tuannguyen28@example.net,845554573875,2697384d-801e-4690-b0c0-7fcc96add4df
+6d268b37-8f52-42d3-94bb-bcf828fea761,PERSON,Duc Hoang,,duchoang69@example.com,845556226609,d963dc72-05c8-434b-9d76-3a66b5f59cb0
+1d2c2721-7522-4646-b273-75bf5373bf4d,PERSON,Duc Le,,ducle43@example.org,845557859696,b4299924-c098-4750-8741-9b4834ae4abd
+6b11b7cb-6372-4424-82c5-6b21243012da,PERSON,Thao Vu,,thaovu86@example.com,845559662782,224a66a6-ac0f-4801-95b2-4e1d97154633
+b5cbe3f5-6a66-4184-bde1-bf5daf4847f0,PERSON,Mai Pham,,maipham66@example.net,845552190340,5be9fdb3-dd92-4d7c-8db9-77a99e91a71c
+a757075b-d47f-43b1-bc69-c1551a37f6bd,BUSINESS,"Alder Instruments Co., Ltd.",Huong Pham,alderinstrumentscoltd41@example.net,845550745171,1d3ca5a4-929d-4377-9cfb-655f82c42e48
+98cbaa52-47f5-4019-8843-8de259cf0b0d,PERSON,Minh Hoang,,minhhoang78@example.com,845555449481,a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff
+135508d0-73b5-4ad5-a00b-4b356a0aa7d5,BUSINESS,Horizon Supplies K.K.,Takumi Ito,horizonsupplieskk91@example.com,815556845775,257035db-3fea-490a-a1f8-072dddb7570e
+56771f36-4899-4e5f-940e-53ce52a74a41,PERSON,Mio Takahashi,,miotakahashi80@example.org,815552975001,cbb18c79-1036-408d-99a0-90075bb47c18
+462623be-e068-4849-aec7-1a30dfda35b2,PERSON,Takumi Suzuki,,takumisuzuki21@example.org,815555415206,cbb18c79-1036-408d-99a0-90075bb47c18
+1221cddf-7a4a-402f-a1d6-3b0fb1ac040d,PERSON,Yui Tanaka,,yuitanaka39@example.net,815551115542,39e7a4f1-97fb-413a-a1f8-9d0613f3cade
+379d58f9-dc26-4108-b140-11a1afc2ccfc,PERSON,Daiki Watanabe,,daikiwatanabe21@example.com,815552196565,70aa5b0d-2a03-4ad4-a667-b9829c3de1b0
+bf72ae52-304b-4370-8270-12389b5f8f39,PERSON,Sakura Watanabe,,sakurawatanabe60@example.net,815550376137,48f091f0-9b8b-48ae-b89f-3a92999a1d86
+12af97e4-c536-466e-bcc4-091bf45707c6,PERSON,Kenji Tanaka,,kenjitanaka12@example.org,815551043006,6307d4d1-21c9-415d-9104-5a16ef15ab72
+d5a386d9-c362-4810-a261-1b8d9620bee6,PERSON,Aoi Tanaka,,aoitanaka93@example.org,815551463031,4708203b-2716-40c1-9db5-428389a3c811
+c7f7bda1-bff1-4840-a07e-863f5f32d5d8,PERSON,Takumi Suzuki,,takumisuzuki44@example.org,815551056481,b3957a98-2320-4ff5-b538-f96c033e02f7
+5d2d904f-78c5-4073-8bc5-72073e9aec86,BUSINESS,Delta Harbor Trading K.K.,Haruto Sato,deltaharbortradingkk59@example.com,815552086353,5e20c957-2ab8-4d33-911f-730bdbff00b0
+53c9fe59-4f89-43b2-9847-dc53c605e58a,PERSON,Lena Fischer,,lenafischer21@example.org,495557053494,3922a7e4-2de9-42f8-8d7b-ec04e6e59b32
+58af393c-8aa2-44c9-bba5-bd76061efb95,PERSON,Lukas Weber,,lukasweber91@example.org,495550506413,bb82b796-3207-443e-86a0-7656c5c9fb91
+94ad6252-15bc-4a3e-bf76-55d7f97c6c3c,PERSON,Sabine Weber,,sabineweber22@example.org,495552619906,17d09810-47a2-410b-b62e-db49247296a4
+774f6354-7316-4e64-aa14-7a961b0c62eb,PERSON,Anna Schneider,,annaschneider50@example.net,495551853747,516c3b0a-5385-4918-bc40-15fad4f76322
+429a4a7c-4c80-433a-ad5b-e3c80c880714,BUSINESS,Delta Harbor Foods GmbH,Tobias Wagner,deltaharborfoodsgmbh32@example.com,495556788317,0a530df9-9a72-483c-b266-986cb46788bd
+e709fba6-329f-4417-9081-3d45ff45f8a2,BUSINESS,Juniper Electronics GmbH,Anna Becker,juniperelectronicsgmbh92@example.net,495552151070,5f4b1a97-668c-479b-92dc-42c832b8d8aa
+e1fdc6d1-6978-4221-bfb7-5c574b8c031f,BUSINESS,Cobalt Trading GmbH,Katrin Koch,cobalttradinggmbh80@example.net,495550146263,5a9c0679-2c3d-47e2-ad39-da75aee70ab2
+51a1f5df-06ac-4010-ae08-69c1453b45fe,PERSON,Sabine Weber,,sabineweber86@example.com,495550407859,b69f75c5-c82b-41be-a1eb-64e6fd498e20
+bcf474aa-ce63-4b1a-9168-bbf297af5bde,PERSON,Jonas Schneider,,jonasschneider55@example.org,495550599293,93608edf-382b-4b86-b2a3-2efdff138c80
+cd6bb03b-eb35-47a0-ad6e-0291b7893986,PERSON,Jonas Fischer,,jonasfischer51@example.com,495550292185,86c5547c-051a-4039-b803-dcee9a069295
+b18d2c8c-8fdd-4ebc-b7ff-88d4b509f08a,PERSON,Mei Li,,meili88@example.net,865553926442,22ee7f07-5296-4fb3-8d40-7b285628ddcd
+3ced4d1f-13eb-42c9-bece-d21a54c7743b,BUSINESS,"Juniper Components Co., Ltd.",Xiu Ying Li,junipercomponentscoltd54@example.net,865552157043,91468cdc-f716-4b73-8555-23edfe8956c8
+a6a5f0ff-93fb-41d0-9d32-6d9cc9ea356a,BUSINESS,"Fairwind Furniture Co., Ltd.",Fang Liu,fairwindfurniturecoltd97@example.com,865552710405,6b6e64c5-bb8a-4843-b02f-31e562ccc604
+6f27c1b9-e3c6-4edb-9b79-2afa2a3d418d,BUSINESS,"Horizon Trading Co., Ltd.",Tao Yang,horizontradingcoltd30@example.com,865551533688,f11c0ac5-8c0b-493a-9333-5bc9bb635ff5
+a3607681-2bbb-489d-b4fa-dee106969d48,BUSINESS,"Juniper Instruments Co., Ltd.",Li Na Wang,juniperinstrumentscoltd47@example.com,865557146774,2751ab86-7dae-4949-9700-b4618cb6b0ba
+8a9c66f7-cee4-4512-9802-b640ab0b4cc5,BUSINESS,"Alder Supplies Co., Ltd.",Fang Wang,aldersuppliescoltd62@example.org,865553806868,7092d401-4367-4d58-8b6c-03c8721e5419
+2c41cbd3-72f4-44ab-81d7-1f4af3025d16,PERSON,Jun Wang,,junwang31@example.com,865553206163,22ee7f07-5296-4fb3-8d40-7b285628ddcd
+966b62ea-9f80-496b-b34e-356ac95b61f8,PERSON,Xiu Ying Wang,,xiuyingwang76@example.net,865551622999,16476e3f-1127-4207-8eae-1325ea074d80
+24d38751-6729-4d3c-8681-8a882c154804,PERSON,Xiu Ying Wang,,xiuyingwang89@example.org,865556065307,e0bda1ee-5807-4f74-a150-9425891f4683
+c626e38f-716f-4276-be64-ac2af96671a5,PERSON,Jun Zhang,,junzhang51@example.net,865556913736,d7c4caed-47c4-4c51-8f9a-5f984d950273

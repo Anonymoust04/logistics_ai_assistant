@@ -1,0 +1,14 @@
+hub_id,name,email,phone,hub_type,address_id,unlocode
+8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,Kuala Lumpur Air Gateway,kualalumpurairgateway@hubmail.example,605551960013,AIRPORT,bdd640fb-0667-4ad1-9c80-317fa3b1799d,MYKUL
+96da1dac-72ff-4d2a-b86e-cbe06b65a6a4,Kuala Lumpur Sorting Centre,kualalumpursortingcentre@hubmail.example,605554026542,SORTING_CENTRE,06cb0fb3-9a1d-4644-815e-f6d13b8faa18,MYKUL
+0b1f9163-ce9f-457f-83b7-a3a69a8dca03,Port Klang Sea Hub,portklangseahub@hubmail.example,605557816184,PORT,562b0f79-c374-49ee-b50b-ea63371ecd7b,MYPKG
+c5e7ce8a-3a57-4a8e-a948-8d990bbb2599,Penang Service Office,penangserviceoffice@hubmail.example,605554131647,OFFICE,e2acf72f-9e57-4f7a-a0ee-89aed453dd32,MYPEN
+88bd6407-2bcf-4e01-a28d-efe39bf00273,Singapore Air Gateway,singaporeairgateway@hubmail.example,655553276483,AIRPORT,29a3b2e9-5d65-4441-9588-42dea2bc372f,SGSIN
+3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,Singapore Sorting Centre,singaporesortingcentre@hubmail.example,655559537672,SORTING_CENTRE,c4b032cc-d7c5-44a5-9304-317faf42e12f,SGSIN
+5cabcc97-663f-4c97-9562-69f0e5d7b875,Bangkok Air Gateway,bangkokairgateway@hubmail.example,665553287101,AIRPORT,beb79919-3f22-4af8-a3be-d01d43cf2fde,THBKK
+877409a9-77d2-4e02-bf01-cf99988c24c9,Jakarta Air Gateway,jakartaairgateway@hubmail.example,625554801845,AIRPORT,cac5b68c-28f4-4481-a0a0-4dc427209bdf,IDJKT
+2dbc2134-c30f-446e-8026-695ff8cda88b,Ho Chi Minh Air Gateway,hochiminhairgateway@hubmail.example,845558148932,AIRPORT,287d06ca-6f4c-469a-8b22-d3081c8eaee9,VNSGN
+1ca35cfb-04fc-4d82-bd15-438552fbe43b,Tokyo Air Gateway,tokyoairgateway@hubmail.example,815555430391,AIRPORT,8a14be62-295b-4715-8333-e8615fb8d16c,JPTYO
+f264accc-79ac-4b1e-a8e5-6e0c20de435d,Frankfurt Air Gateway,frankfurtairgateway@hubmail.example,495558248963,AIRPORT,d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269,DEFRA
+7394988f-847f-49b4-a64d-1bcb702753a1,Shanghai Air Gateway,shanghaiairgateway@hubmail.example,865551331509,AIRPORT,badcc32a-c159-4f53-8a0f-4efbedcd465e,CNSHA
+dc1110c1-080a-4dfb-a7c9-9b26114125c6,Shanghai Sea Hub,shanghaiseahub@hubmail.example,865555183473,PORT,38602ab6-96a4-42f2-bae8-cc938dcdcd03,CNSHA
